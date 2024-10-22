@@ -1,9 +1,0 @@
-poo\observer\events\NotificacionesManager.class
-poo\observer\events\NotificacionesListener.class
-poo\observer\Main.class
-poo\observer\Libro.class
-poo\observer\events\VencimientoListener.class
-poo\observer\Cliente.class
-poo\observer\events\NuevoListener.class
-poo\observer\events\ReservaListener.class
-poo\observer\Biblioteca.class
